@@ -1,0 +1,3175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2" xmlns:gx="http://www.google.com/kml/ext/2.2" xmlns:kml="http://www.opengis.net/kml/2.2" xmlns:atom="http://www.w3.org/2005/Atom">
+<Document>
+	<name>Palmer_EST_mitigation_locations.kml</name>
+	<Style id="sn_grn-blank5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-diamond1">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank001</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-blank1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank50">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-blank6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank7</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-stars0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank11">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-blank4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl03">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond40">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-diamond0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond5">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_C00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_C0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond3">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-diamond2">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond40</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-diamond3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank50</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank20</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_C">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_C00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_C0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_C0">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_C0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_C</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_C</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-diamond">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-stars0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-stars-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin_hl0200">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin31">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank3</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-diamond40">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="s_ylw-pushpin301">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_C00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_C0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_C00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank30">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank10</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank50</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="m_ylw-pushpin5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin31</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl0200</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank2</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_grn-blank000">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond5</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-diamond6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank00">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-diamond4">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank000">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank3">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank0">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond7">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-diamond5">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank01">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_C">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank10">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank6</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-diamond01">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="m_ylw-pushpin500">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#s_ylw-pushpin301</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#s_ylw-pushpin_hl03</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-diamond2">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank20">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond01</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond2</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_ylw-diamond1">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank4</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sh_ylw-diamond6">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-diamond3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank50">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond0">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond6</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond31</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-stars">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-stars0</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-stars0</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank1">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank1</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank00</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-blank4">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank6">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank000</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank100</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_ylw-diamond00">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond5</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond1</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_grn-blank10">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-diamond30">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank6">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank100">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank3">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_ylw-diamond2">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_ylw-diamond31">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/ylw-diamond-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_grn-blank12">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank01</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_C">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sh_grn-blank001">
+		<IconStyle>
+			<scale>1.3</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<Style id="sn_grn-blank7">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/grn-blank-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond4">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond4</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Style id="sn_C00">
+		<IconStyle>
+			<scale>1.1</scale>
+			<Icon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C.png</href>
+			</Icon>
+			<hotSpot x="32" y="1" xunits="pixels" yunits="pixels"/>
+		</IconStyle>
+		<LabelStyle>
+			<color>00ffffff</color>
+		</LabelStyle>
+		<ListStyle>
+			<ItemIcon>
+				<href>http://maps.google.com/mapfiles/kml/paddle/C-lv.png</href>
+			</ItemIcon>
+		</ListStyle>
+	</Style>
+	<StyleMap id="msn_ylw-diamond5">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_ylw-diamond00</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_ylw-diamond30</styleUrl>
+		</Pair>
+	</StyleMap>
+	<StyleMap id="msn_grn-blank13">
+		<Pair>
+			<key>normal</key>
+			<styleUrl>#sn_grn-blank3</styleUrl>
+		</Pair>
+		<Pair>
+			<key>highlight</key>
+			<styleUrl>#sh_grn-blank000</styleUrl>
+		</Pair>
+	</StyleMap>
+	<Folder>
+		<name>Points for map</name>
+		<open>1</open>
+		<Placemark>
+			<name>Laurel Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.20340652777365</longitude>
+				<latitude>37.01361111120782</latitude>
+				<altitude>0</altitude>
+				<heading>2.45061738206764e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000005415128</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond1</styleUrl>
+			<Point>
+				<coordinates>-82.20340652777367,37.01361111120782,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Mary Fork UTMF 10</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-29</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.64108187724006</longitude>
+				<latitude>38.20598449067261</latitude>
+				<altitude>0</altitude>
+				<heading>4.564681782734398</heading>
+				<tilt>17.35864645835087</tilt>
+				<range>1534.082788115138</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.63196395024039,38.20936654694592,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Preacher Fork main stem</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.32797394818736</longitude>
+				<latitude>37.12686871046441</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001852710779082391</heading>
+				<tilt>0</tilt>
+				<range>4070.36059144636</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.32636285618334,37.13023050558808,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Preacher Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.32797394818736</longitude>
+				<latitude>37.12686871046441</latitude>
+				<altitude>0</altitude>
+				<heading>-0.00185271077906967</heading>
+				<tilt>0</tilt>
+				<range>4070.36059149507</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.32554437771405,37.12869672923426,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugarcamp restored B channel</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.2360466176325</longitude>
+				<latitude>37.3838046952749</latitude>
+				<altitude>0</altitude>
+				<heading>44.45909997953545</heading>
+				<tilt>34.22047744717294</tilt>
+				<range>512.3847232723909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.2353106973607,37.38442729427372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugarcamp restored B channel</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.2360466176325</longitude>
+				<latitude>37.3838046952749</latitude>
+				<altitude>0</altitude>
+				<heading>44.45909997953545</heading>
+				<tilt>34.22047744717294</tilt>
+				<range>512.3847232723909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond4</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.23653174215271,37.38406413044913,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT Rockhouse 2</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.26509999999736</longitude>
+				<latitude>37.384820000164</latitude>
+				<altitude>0</altitude>
+				<heading>1.595048172753953e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000011742972</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-83.26509999999736,37.384820000164,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT Rockhouse 1</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.26919999999829</longitude>
+				<latitude>37.38752000020956</latitude>
+				<altitude>0</altitude>
+				<heading>1.011416388705398e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000007125506</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-83.26919999999831,37.38752000020956,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Walnut Fork upstream of Culvert bridge</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2010-08-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.51843058122375</longitude>
+				<latitude>37.7855675496893</latitude>
+				<altitude>0</altitude>
+				<heading>8.432796714047175</heading>
+				<tilt>46.92266353993622</tilt>
+				<range>503.3884697196251</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.51670667102025,37.78490461964088,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pegs Branch at Pond 165</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2010-08-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.50300000019321</longitude>
+				<latitude>37.78399999930841</latitude>
+				<altitude>0</altitude>
+				<heading>-1.183905820467868e-010</heading>
+				<tilt>0</tilt>
+				<range>999.9999609162185</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.50300000019321,37.78399999930841,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Lick Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.11416666667992</longitude>
+				<latitude>37.58277777791457</latitude>
+				<altitude>0</altitude>
+				<heading>-8.148581093909526e-012</heading>
+				<tilt>0</tilt>
+				<range>999.9999932523073</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-82.11416666667991,37.58277777791457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Grapevine Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.11170824017754</longitude>
+				<latitude>37.58146683493659</latitude>
+				<altitude>0</altitude>
+				<heading>-0.6453150323671225</heading>
+				<tilt>0</tilt>
+				<range>2923.283801797614</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-82.11985360025713,37.57888117054615,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Streams ABC</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.5309371354829</longitude>
+				<latitude>36.77548372405362</latitude>
+				<altitude>0</altitude>
+				<heading>-4.815470842841867</heading>
+				<tilt>0</tilt>
+				<range>661.9432561666338</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-83.53081718741335,36.77570858907789,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Segment B</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.5309371354829</longitude>
+				<latitude>36.77548372405362</latitude>
+				<altitude>0</altitude>
+				<heading>-4.815470842841867</heading>
+				<tilt>0</tilt>
+				<range>661.9432561666338</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-83.53045363459862,36.77488946499528,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Segment A</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.5309371354829</longitude>
+				<latitude>36.77548372405362</latitude>
+				<altitude>0</altitude>
+				<heading>-4.815470842841867</heading>
+				<tilt>0</tilt>
+				<range>661.9432561666338</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond7</styleUrl>
+			<Point>
+				<coordinates>-83.53085843734831,36.77494170969258,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTRPC 1 Upper</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.17277777780278</longitude>
+				<latitude>37.24055555567497</latitude>
+				<altitude>0</altitude>
+				<heading>-1.51124055689739e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000006847712</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond0</styleUrl>
+			<Point>
+				<coordinates>-82.17277777780278,37.24055555567497,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTRPC 1 Lower</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.17305555550699</longitude>
+				<latitude>37.24027777770762</latitude>
+				<altitude>0</altitude>
+				<heading>2.936526623528228e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000001399752</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond0</styleUrl>
+			<Point>
+				<coordinates>-82.17305555550699,37.24027777770762,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paramont - Left Fork</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-29</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.14679628548569</longitude>
+				<latitude>37.06282274132141</latitude>
+				<altitude>0</altitude>
+				<heading>-66.26496559775237</heading>
+				<tilt>34.78465422020491</tilt>
+				<range>1235.809296747484</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond40</styleUrl>
+			<Point>
+				<coordinates>-82.14583860682248,37.06020273179687,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UTRPC 2</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.17999999999576</longitude>
+				<latitude>37.22999999976517</latitude>
+				<altitude>0</altitude>
+				<heading>2.588176372040937e-012</heading>
+				<tilt>0</tilt>
+				<range>999.9999942649616</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond0</styleUrl>
+			<Point>
+				<coordinates>-82.17999999999576,37.22999999976518,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Horse Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.1962853999399</longitude>
+				<latitude>36.98914910005318</latitude>
+				<altitude>0</altitude>
+				<heading>3.612871576541444e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000001288076</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond1</styleUrl>
+			<Point>
+				<coordinates>-83.1962853999399,36.98914910005318,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Left Fork Cow Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.03442937890993</longitude>
+				<latitude>37.71211690655152</latitude>
+				<altitude>0</altitude>
+				<heading>7.545078319484579</heading>
+				<tilt>0</tilt>
+				<range>3455.849199089737</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank10</styleUrl>
+			<Point>
+				<coordinates>-82.04012170305185,37.71466343705712,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Keystone - Rush Creek M1</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.58342315437955</longitude>
+				<latitude>38.25866451603476</latitude>
+				<altitude>0</altitude>
+				<heading>4.975179875193685</heading>
+				<tilt>0</tilt>
+				<range>2070.530052847765</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank11</styleUrl>
+			<Point>
+				<coordinates>-81.58487288261304,38.25770845664689,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Falcon - Frasure Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.64532389765159</longitude>
+				<latitude>37.94341084877235</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003361791067136737</heading>
+				<tilt>0</tilt>
+				<range>1711.32280812369</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-81.64536738309745,37.94477934615196,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT Left Fork of White Oak Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.49711408194531</longitude>
+				<latitude>38.05536583712036</latitude>
+				<altitude>0</altitude>
+				<heading>-0.003458786122002723</heading>
+				<tilt>0</tilt>
+				<range>5147.891731621474</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-81.51071608440938,38.05885447222622,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Left Fork White Oak Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.52509666660197</longitude>
+				<latitude>38.05133444479586</latitude>
+				<altitude>0</altitude>
+				<heading>3.988018001220067e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000029063815</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-81.52509666660195,38.05133444479586,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pond Fork2 PF 10-1</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2011-10-17</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.6341816346135</longitude>
+				<latitude>37.84136761314269</latitude>
+				<altitude>0</altitude>
+				<heading>6.993101617696721</heading>
+				<tilt>22.65304596472482</tilt>
+				<range>4293.381959293416</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.6347203776331,37.83571827147326,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pond Fork PF1</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2011-10-17</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.63445517521146</longitude>
+				<latitude>37.85880095678681</latitude>
+				<altitude>0</altitude>
+				<heading>0.002053186677934415</heading>
+				<tilt>6.586303420524502</tilt>
+				<range>6023.031408361006</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.63660747038358,37.86535135209375,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugarcamp Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.2360466176325</longitude>
+				<latitude>37.3838046952749</latitude>
+				<altitude>0</altitude>
+				<heading>44.45909997953545</heading>
+				<tilt>34.22047744717294</tilt>
+				<range>512.3847232723909</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank12</styleUrl>
+			<Point>
+				<coordinates>-83.23761500226749,37.38382111425647,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RPC 1</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.16638888894643</longitude>
+				<latitude>37.23833333345249</latitude>
+				<altitude>0</altitude>
+				<heading>1.45488907932856e-010</heading>
+				<tilt>9.326103070690444</tilt>
+				<range>1000.000011649359</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-82.16638888894642,37.23833333345249,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Upper Grapevine Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.08701968440151</longitude>
+				<latitude>37.56877525020325</latitude>
+				<altitude>0</altitude>
+				<heading>-1.914377666761728</heading>
+				<tilt>0</tilt>
+				<range>6277.869137769833</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-82.10470600099367,37.57478718681457,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hobet - Lukey Fork (Reach C)</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.95236046072039</longitude>
+				<latitude>38.06129799446249</latitude>
+				<altitude>0</altitude>
+				<heading>-0.0005432503783147881</heading>
+				<tilt>0</tilt>
+				<range>637.6335657046581</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-81.95378410411814,38.06060300161527,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bull Creek - Benthic site 1</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-27</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.70182431639728</longitude>
+				<latitude>38.20456927176137</latitude>
+				<altitude>0</altitude>
+				<heading>2.395261738487615</heading>
+				<tilt>11.39031053775906</tilt>
+				<range>8214.382410490243</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank30</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.71955846043498,38.20014474532711,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Right Fork Daniels Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.65166666661612</longitude>
+				<latitude>37.73138888901973</latitude>
+				<altitude>0</altitude>
+				<heading>3.091181094914391e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000006301112</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-82.65166666661612,37.73138888901973,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Brushy Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.66552038582752</longitude>
+				<latitude>37.77205216668716</latitude>
+				<altitude>0</altitude>
+				<heading>0.0002656190436107146</heading>
+				<tilt>29.55910721648085</tilt>
+				<range>642.7026775189964</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank7</styleUrl>
+			<Point>
+				<coordinates>-82.66550832902796,37.77325750539399,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coal Mac - Loggy Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.11341805576302</longitude>
+				<latitude>37.73207480424504</latitude>
+				<altitude>0</altitude>
+				<heading>-0.002319560094135719</heading>
+				<tilt>0</tilt>
+				<range>4489.430457856377</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Point>
+				<coordinates>-82.11083137098791,37.73216380682271,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ULT Sugartree Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.95299787821951</longitude>
+				<latitude>38.09228639756125</latitude>
+				<altitude>0</altitude>
+				<heading>34.83053696031677</heading>
+				<tilt>27.30830729404017</tilt>
+				<range>799.4832173071148</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-81.95450346048354,38.09183888054493,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>1st ULT Sugartree Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.94987907465786</longitude>
+				<latitude>38.09421102570386</latitude>
+				<altitude>0</altitude>
+				<heading>34.83246116024093</heading>
+				<tilt>27.30835946556438</tilt>
+				<range>761.1873077794807</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-81.94997112836259,38.09535606098294,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Sugartree Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.95398850714794</longitude>
+				<latitude>38.09177001984013</latitude>
+				<altitude>0</altitude>
+				<heading>-7.496169814874325e-011</heading>
+				<tilt>44.99973704643464</tilt>
+				<range>1000.000009699862</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin5</styleUrl>
+			<Point>
+				<coordinates>-81.95317001172522,38.09109947543388,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Horsepen Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.90499632185524</longitude>
+				<latitude>37.63146596070178</latitude>
+				<altitude>0</altitude>
+				<heading>2.415718030334676</heading>
+				<tilt>0.451048253101616</tilt>
+				<range>5552.688496669602</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank3</styleUrl>
+			<Point>
+				<coordinates>-81.91791790114991,37.63471776408024,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Gilbert Creek benthic site 1</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-29</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.91700287636121</longitude>
+				<latitude>37.60857987667363</latitude>
+				<altitude>0</altitude>
+				<heading>-16.30379668475446</heading>
+				<tilt>8.783699056002719</tilt>
+				<range>1348.572380392964</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.91715478114709,37.60569655465744,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Evans Ferrell Branch</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-29</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.17524894785464</longitude>
+				<latitude>37.68064560733127</latitude>
+				<altitude>0</altitude>
+				<heading>-1.266658907917171</heading>
+				<tilt>33.55475910437993</tilt>
+				<range>2637.032344480773</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.16873252329286,37.67754749863777,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Premium - Adams Fork</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-29</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.91999626135805</longitude>
+				<latitude>37.60858741203526</latitude>
+				<altitude>0</altitude>
+				<heading>0.02237039726790693</heading>
+				<tilt>0</tilt>
+				<range>3303.038443350405</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-81.91741712037467,37.60631781571507,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Honey Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.63361111107</longitude>
+				<latitude>37.77777777767155</latitude>
+				<altitude>0</altitude>
+				<heading>2.515580211436532e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000009561933</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank30</styleUrl>
+			<Point>
+				<coordinates>-82.63361111107,37.77777777767155,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Beech Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.63027777777747</longitude>
+				<latitude>37.75999999987307</latitude>
+				<altitude>0</altitude>
+				<heading>1.804964781730546e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.000002203977</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-82.63027777777747,37.75999999987307,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>RPC 2</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.15999999998887</longitude>
+				<latitude>37.23750000018733</latitude>
+				<altitude>0</altitude>
+				<heading>6.751522450076682e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000012626035</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-82.15999999998887,37.23750000018734,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>5th ULT Sugartree Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.95408811788192</longitude>
+				<latitude>38.09338448283822</latitude>
+				<altitude>0</altitude>
+				<heading>8.396862322529666</heading>
+				<tilt>32.65801167267059</tilt>
+				<range>357.8116582909167</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#m_ylw-pushpin500</styleUrl>
+			<Point>
+				<coordinates>-81.95423753075095,38.09310861432333,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bens Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.94120121887833</longitude>
+				<latitude>37.61753972138576</latitude>
+				<altitude>0</altitude>
+				<heading>-3.103518621132092</heading>
+				<tilt>38.43607243650628</tilt>
+				<range>616.0835798974567</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank30</styleUrl>
+			<Point>
+				<coordinates>-81.94202287921929,37.61863927246257,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>2006-0015 Spruce Fork</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2011-10-17</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.80806236301766</longitude>
+				<latitude>37.89834854143203</latitude>
+				<altitude>0</altitude>
+				<heading>-1.757224825729241</heading>
+				<tilt>0</tilt>
+				<range>6157.62485763801</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.80336837606286,37.90361590211073,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cow Creek Natural Drain Way</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2009-10-20</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.04718285930719</longitude>
+				<latitude>37.71559619936863</latitude>
+				<altitude>0</altitude>
+				<heading>-175.4837396810575</heading>
+				<tilt>19.23676069824976</tilt>
+				<range>1882.738707980244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.05045286084015,37.71454453467923,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cow Creek Left Fork</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2009-10-20</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.04718285930719</longitude>
+				<latitude>37.71559619936863</latitude>
+				<altitude>0</altitude>
+				<heading>-175.4837396810575</heading>
+				<tilt>19.23676069824976</tilt>
+				<range>1882.738707980244</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.04806199583784,37.71576260793245,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stream C</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.79300797584502</longitude>
+				<latitude>37.77112834444596</latitude>
+				<altitude>0</altitude>
+				<heading>0.003213389594984845</heading>
+				<tilt>3.863563203302964</tilt>
+				<range>6359.580039909168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-81.79749754171461,37.76373140149539,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stream B</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.79300797584502</longitude>
+				<latitude>37.77112834444596</latitude>
+				<altitude>0</altitude>
+				<heading>0.003213389594984845</heading>
+				<tilt>3.863563203302964</tilt>
+				<range>6359.580039909168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-81.80702611964718,37.77197343657588,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stream A</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.79300797584502</longitude>
+				<latitude>37.77112834444596</latitude>
+				<altitude>0</altitude>
+				<heading>0.003213389594984845</heading>
+				<tilt>3.863563203302964</tilt>
+				<range>6359.580039909168</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-81.79257748400602,37.7756678243578,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>conveyance ditch 2</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.73526745515419</longitude>
+				<latitude>37.74748316815789</latitude>
+				<altitude>0</altitude>
+				<heading>9.308227360281331</heading>
+				<tilt>0</tilt>
+				<range>7105.392294178624</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-81.72092371572704,37.7423130135563,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>beech branch restored channel</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2007-08-25</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.7338523926465</longitude>
+				<latitude>37.75522446665895</latitude>
+				<altitude>0</altitude>
+				<heading>-0.004760298629047805</heading>
+				<tilt>9.58117181899925</tilt>
+				<range>7300.223738604852</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.73385193486629,37.7515981444969,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT to Montgomery Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.02628000000046</longitude>
+				<latitude>37.18384000004321</latitude>
+				<altitude>0</altitude>
+				<heading>-2.679617319133013e-013</heading>
+				<tilt>0</tilt>
+				<range>1000.00000948742</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-83.02628000000046,37.18384000004322,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Cow creek creations sample site</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2003-12-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.05045968364503</longitude>
+				<latitude>37.71582669036154</latitude>
+				<altitude>0</altitude>
+				<heading>144.7212963043318</heading>
+				<tilt>38.76000161607031</tilt>
+				<range>716.1640109922572</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.04936183105917,37.71491146306492,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stream D</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.7527906265948</longitude>
+				<latitude>37.78436487538269</latitude>
+				<altitude>0</altitude>
+				<heading>0.02784837793038075</heading>
+				<tilt>3.864049581241491</tilt>
+				<range>6462.654468776209</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-81.76392660992956,37.78099338610464,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICG - Whetstone</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.50122770593991</longitude>
+				<latitude>37.66988888865113</latitude>
+				<altitude>0</altitude>
+				<heading>1.945306757050123e-011</heading>
+				<tilt>0</tilt>
+				<range>1014.929828023941</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond00</styleUrl>
+			<Point>
+				<coordinates>-83.5012277059399,37.66988888865113,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Pace Branch</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2011-10-17</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-83.32249985224983</longitude>
+				<latitude>37.15611118565032</latitude>
+				<altitude>0</altitude>
+				<heading>1.037251458941076e-005</heading>
+				<tilt>0</tilt>
+				<range>1010.637802354981</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.32249985224983,37.15611118565032,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Middle Fork Holly Thicket - restored perennial</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16521259100361</longitude>
+				<latitude>37.15034209844077</latitude>
+				<altitude>0</altitude>
+				<heading>0.002065588321155219</heading>
+				<tilt>0</tilt>
+				<range>2774.644404186181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond3</styleUrl>
+			<Point>
+				<coordinates>-83.17267,37.14597,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Left Fork - restored perennial</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16642408464459</longitude>
+				<latitude>37.13751313166169</latitude>
+				<altitude>0</altitude>
+				<heading>-3.255017827665939e-009</heading>
+				<tilt>1.560069274973323</tilt>
+				<range>5291.727151608328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.17113888888889,37.14189,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rye Cove restoration</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.3507613548669</longitude>
+				<latitude>37.49393560180004</latitude>
+				<altitude>0</altitude>
+				<heading>-92.683322882588</heading>
+				<tilt>0</tilt>
+				<range>1539.860805108158</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond2</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.35131005464629,37.49187635760471,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Middle Fork Holly Thicket - restored intermittent</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16521259100361</longitude>
+				<latitude>37.15034209844077</latitude>
+				<altitude>0</altitude>
+				<heading>0.002065588321155219</heading>
+				<tilt>0</tilt>
+				<range>2774.644404186181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond40</styleUrl>
+			<Point>
+				<coordinates>-83.16824521463151,37.14687222222222,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Left Fork - restored intermittent</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16642408464459</longitude>
+				<latitude>37.13751313166169</latitude>
+				<altitude>0</altitude>
+				<heading>-3.255017827665939e-009</heading>
+				<tilt>1.560069274973323</tilt>
+				<range>5291.727151608328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond40</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.17216111111111,37.14093,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Millers Camp Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.28980066790973</longitude>
+				<latitude>37.76186494900048</latitude>
+				<altitude>0</altitude>
+				<heading>2.100232370722881e-009</heading>
+				<tilt>0</tilt>
+				<range>1024.549646886653</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank4</styleUrl>
+			<Point>
+				<coordinates>-81.28980066790972,37.76186494900048,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Middle Fork Holly Thicket - enhanced perennial</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16521259100361</longitude>
+				<latitude>37.15034209844077</latitude>
+				<altitude>0</altitude>
+				<heading>0.002065588321155219</heading>
+				<tilt>0</tilt>
+				<range>2774.644404186181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank13</styleUrl>
+			<Point>
+				<coordinates>-83.17161111111112,37.14669,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Left Fork Enhanced Perennial</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16642408464459</longitude>
+				<latitude>37.13751313166169</latitude>
+				<altitude>0</altitude>
+				<heading>-3.255017827665939e-009</heading>
+				<tilt>1.560069274973323</tilt>
+				<range>5291.727151608328</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank13</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.16898055555556,37.14329,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Rye Cove</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.34508000000942</longitude>
+				<latitude>37.49505000000124</latitude>
+				<altitude>0</altitude>
+				<heading>-5.736925506689818e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000003633974</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank13</styleUrl>
+			<Point>
+				<coordinates>-83.34508000000942,37.49505000000124,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Little Beech Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.62527777777316</longitude>
+				<latitude>37.77583333305786</latitude>
+				<altitude>0</altitude>
+				<heading>2.818766586447041e-012</heading>
+				<tilt>0</tilt>
+				<range>1000.000010011687</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank13</styleUrl>
+			<Point>
+				<coordinates>-82.62527777777318,37.77583333305786,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Coal Hollow</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2013-04-20</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.92647363748795</longitude>
+				<latitude>37.60551886394839</latitude>
+				<altitude>0</altitude>
+				<heading>-68.73043178786314</heading>
+				<tilt>60.60998758856313</tilt>
+				<range>1004.239175190079</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank13</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.92428415733153,37.60578167563019,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Birch River</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-80.60582955224675</longitude>
+				<latitude>38.47919071713312</latitude>
+				<altitude>0</altitude>
+				<heading>46.93143817136739</heading>
+				<tilt>0.02686591940852713</tilt>
+				<range>10233.69854089891</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-80.61471693788374,38.46635022996654,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Bear Branch Middle Reach</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.11779163314266</longitude>
+				<latitude>37.12664252411241</latitude>
+				<altitude>0</altitude>
+				<heading>38.58759155198859</heading>
+				<tilt>5.123206839287758</tilt>
+				<range>1456.563483173942</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-83.11708089499967,37.12625061091745,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT to Clear Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.29247222219881</longitude>
+				<latitude>37.64011111139178</latitude>
+				<altitude>0</altitude>
+				<heading>1.428705162913412e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000007647164</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-83.2924722221988,37.64011111139178,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Spicelick Fork SL1</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.55973236787855</longitude>
+				<latitude>38.13305647790547</latitude>
+				<altitude>0</altitude>
+				<heading>-2.421477535887639</heading>
+				<tilt>1.78116335382954</tilt>
+				<range>5272.164429208768</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-81.55440916854811,38.13456392766103,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Middle Fork Holly Thicket - enhanced intermittent</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16521259100361</longitude>
+				<latitude>37.15034209844077</latitude>
+				<altitude>0</altitude>
+				<heading>0.002065588321155219</heading>
+				<tilt>0</tilt>
+				<range>2774.644404186181</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-83.17581944444444,37.14363,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Left Fork Holly Thicket - enhanced ephemeral</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.16553416982897</longitude>
+				<latitude>37.15118437649915</latitude>
+				<altitude>0</altitude>
+				<heading>0.001871380219415292</heading>
+				<tilt>0</tilt>
+				<range>2796.01398532301</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-83.17558055555556,37.13952,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT to Lick Fork</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.81956377428536</longitude>
+				<latitude>37.76658458060484</latitude>
+				<altitude>0</altitude>
+				<heading>-8.76550513015124</heading>
+				<tilt>49.31491730448895</tilt>
+				<range>790.1013859557662</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank0</styleUrl>
+			<Point>
+				<coordinates>-82.82056661304915,37.76747974510372,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Long Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-83.06085104581294</longitude>
+				<latitude>37.01176683462481</latitude>
+				<altitude>0</altitude>
+				<heading>18.09198678574478</heading>
+				<tilt>41.48182653753101</tilt>
+				<range>1236.922678930436</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond5</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.062953555316,37.00939720549494,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stone Coal Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.23238055937799</longitude>
+				<latitude>36.96676966961382</latitude>
+				<altitude>0</altitude>
+				<heading>-0.001576633818275789</heading>
+				<tilt>54.23232195615866</tilt>
+				<range>323.2350376595857</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond5</styleUrl>
+			<Point>
+				<coordinates>-82.23188796628138,36.96627671581413,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICG - Dill Branch</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2010-08-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-83.40063661970278</longitude>
+				<latitude>37.39636534837509</latitude>
+				<altitude>0</altitude>
+				<heading>-7.23499015216388</heading>
+				<tilt>12.35537594842369</tilt>
+				<range>550.1536050639521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond5</styleUrl>
+			<Point>
+				<coordinates>-83.40026347975399,37.39533210660139,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>ICG - Dill Branch</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2010-08-31</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-83.40063661970278</longitude>
+				<latitude>37.39636534837509</latitude>
+				<altitude>0</altitude>
+				<heading>-7.23499015216388</heading>
+				<tilt>12.35537594842369</tilt>
+				<range>550.1536050639521</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-stars</styleUrl>
+			<Point>
+				<coordinates>-83.40080014944765,37.39759938973598,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Paramont - Cane Creek</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2011-04-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-82.17044886093527</longitude>
+				<latitude>37.061002306189</latitude>
+				<altitude>0</altitude>
+				<heading>6.258172980009444</heading>
+				<tilt>0</tilt>
+				<range>1976.581901805324</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.17602426039987,37.06024643037407,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Nally - Horse Fork</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2011-04-10</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-83.19864570893638</longitude>
+				<latitude>36.99300176459351</latitude>
+				<altitude>0</altitude>
+				<heading>-3.454440543675501</heading>
+				<tilt>33.84140339725305</tilt>
+				<range>3589.102942453391</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond6</styleUrl>
+			<Point>
+				<coordinates>-83.19665991770177,36.98573367032047,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Jade Moore Branch</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-82.71944444440551</longitude>
+				<latitude>37.77916666670831</latitude>
+				<altitude>0</altitude>
+				<heading>2.385893094299857e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00000184069</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank6</styleUrl>
+			<Point>
+				<coordinates>-82.71944444440553,37.77916666670831,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hewitt Creek</name>
+			<open>1</open>
+			<LookAt>
+				<longitude>-81.81083333339785</longitude>
+				<latitude>38.16569444441609</latitude>
+				<altitude>0</altitude>
+				<heading>-3.9872228625497e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000002772685</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank6</styleUrl>
+			<Point>
+				<coordinates>-81.81083333339785,38.16569444441609,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Carrow Fork CF 2</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-11-24</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.56999715566761</longitude>
+				<latitude>38.12193138177545</latitude>
+				<altitude>0</altitude>
+				<heading>3.104618938443575e-010</heading>
+				<tilt>0</tilt>
+				<range>1003.505678245196</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank6</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.56999715566759,38.12193138177545,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Clear Water Diversion 2</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-27</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.80058209368237</longitude>
+				<latitude>37.91012626139428</latitude>
+				<altitude>0</altitude>
+				<heading>69.1054356901023</heading>
+				<tilt>2.863961145267078</tilt>
+				<range>1866.132573261774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.79439566665042,37.90791453682039,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Clear Water Diversion 1</name>
+			<open>1</open>
+			<LookAt>
+				<gx:TimeStamp><when>2012-03-27</when>
+</gx:TimeStamp>
+				<gx:ViewerOptions>
+					<gx:option name="historicalimagery"></gx:option>
+					<gx:option enabled="0" name="sunlight"></gx:option>
+					<gx:option enabled="0" name="streetview"></gx:option>
+				</gx:ViewerOptions>
+				<longitude>-81.80058209368237</longitude>
+				<latitude>37.91012626139428</latitude>
+				<altitude>0</altitude>
+				<heading>69.1054356901023</heading>
+				<tilt>2.863961145267078</tilt>
+				<range>1866.132573261774</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C00</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-81.79986495634955,37.91094097057854,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Stream E</name>
+			<LookAt>
+				<longitude>-81.76421051984386</longitude>
+				<latitude>37.77789666920933</latitude>
+				<altitude>0</altitude>
+				<heading>0.02091614141421132</heading>
+				<tilt>21.80895370318537</tilt>
+				<range>2269.382005386094</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C</styleUrl>
+			<Point>
+				<coordinates>-81.76160707256869,37.77945519837554,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT Dicks Creek</name>
+			<LookAt>
+				<longitude>-82.65832942927121</longitude>
+				<latitude>37.71833568385698</latitude>
+				<altitude>0</altitude>
+				<heading>2.395797169032843e-006</heading>
+				<tilt>0</tilt>
+				<range>1008.742216442348</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.65832942927121,37.71833568385698,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT of Madden Fork</name>
+			<LookAt>
+				<longitude>-82.98730555566415</longitude>
+				<latitude>37.27186111110863</latitude>
+				<altitude>0</altitude>
+				<heading>-6.575478748457675e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000024887016</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_ylw-diamond</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.98730555566414,37.27186111110863,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hollow Fill 10 Side Drain Reconstruction</name>
+			<LookAt>
+				<longitude>-83.03764000006464</longitude>
+				<latitude>37.18265000012316</latitude>
+				<altitude>0</altitude>
+				<heading>-3.90754996777904e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000065431779</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.03764000006463,37.18265000012316,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>Hollow Fill Side Drain 8 Reconstruction</name>
+			<LookAt>
+				<longitude>-83.02628000003602</longitude>
+				<latitude>37.18384000051675</latitude>
+				<altitude>0</altitude>
+				<heading>-2.178759470669545e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.00001378903</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_C0</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.02628000003604,37.18384000051675,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT to Big Branch</name>
+			<LookAt>
+				<longitude>-82.44372144714612</longitude>
+				<latitude>37.80315846790707</latitude>
+				<altitude>0</altitude>
+				<heading>-9.84065447263754e-009</heading>
+				<tilt>0</tilt>
+				<range>1042.450890677045</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-82.4437214471461,37.80315846790707,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT North Fork Kentucky River 1</name>
+			<LookAt>
+				<longitude>-83.47404722210419</longitude>
+				<latitude>37.61970833338029</latitude>
+				<altitude>0</altitude>
+				<heading>7.205387603121524e-011</heading>
+				<tilt>0</tilt>
+				<range>1000.000034527902</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.47404722210418,37.61970833338029,0</coordinates>
+			</Point>
+		</Placemark>
+		<Placemark>
+			<name>UT North Fork Kentucky River 2</name>
+			<LookAt>
+				<longitude>-83.4750677558627</longitude>
+				<latitude>37.61936746260187</latitude>
+				<altitude>0</altitude>
+				<heading>-1.506715422724338e-009</heading>
+				<tilt>0</tilt>
+				<range>1009.886596829013</range>
+				<gx:altitudeMode>relativeToSeaFloor</gx:altitudeMode>
+			</LookAt>
+			<styleUrl>#msn_grn-blank1</styleUrl>
+			<Point>
+				<gx:drawOrder>1</gx:drawOrder>
+				<coordinates>-83.4750677558627,37.61936746260187,0</coordinates>
+			</Point>
+		</Placemark>
+	</Folder>
+</Document>
+</kml>

@@ -1,0 +1,101 @@
+FK_Permit,Project_Name,Project_Type,Project_site,Mine_sitetype,StreamType,state,reportSuccess,stillMonitoring
+1997-00093,1997-00093 Clear Water ditch 1,creation,onsite,DeepMine,INTERMITTENT,WV,FALSE,adaptive
+1997-00093,1997-00093 Clear water ditch 2,creation,onsite,DeepMine,INTERMITTENT,WV,FALSE,adaptive
+1999-759-2 and -3,1999-759-2 and -3 conveyance ditch 1 site B 15-004 UT of Beech Branch,creation,onsite,mtm,INTERMITTENT,WV,TRUE,TRUE
+1999-759-2 and -3,1999-759-2 and -3 conveyance ditch 2 site B 16-003 Beech Branch,creation,onsite,mtm,INTERMITTENT,WV,TRUE,TRUE
+2002-00047-1,2002-00047-1 Beech Fork Bens Creek,enhancement,onsite,mtm,INTERMITTENT,WV,TRUE,release requested
+2002-00264,2002-00264 Adams Fork,enhancement,onsite,mtm,PERENNIAL,WV,TRUE,release requested
+2002-00264,2002-00264 Horsepen Creek,enhancement,onsite,mtm,PERENNIAL,WV,FALSE,TRUE
+2002-01114-1,2002-01114-1 Sugartree Branch (westridge 2),enhancement,onsite,mtm,PERENNIAL,WV,TRUE,release requested
+2003-00065,2003-00065 Hewitt Creek,enhancement,onsite,DeepMine,PERENNIAL,WV,TRUE,release requested
+2003-01379,2003-01379 1st ULT Sugartree Branch,enhancement,onsite,mtm,PERENNIAL,WV,TRUE,release requested
+2003-01379,2003-01379 5th ULT Sugartree Branch,enhancement,onsite,mtm,INTERMITTENT,WV,TRUE,release requested
+2003-01379,2003-01379 Sugartree Branch (westridge 3),enhancement,onsite,mtm,PERENNIAL,WV,TRUE,release requested
+2004-00215,2004-00215 Grapevine Creek lower portion,restoration,onsite,mtm,PERENNIAL,WV,TRUE,release requested
+2004-00215,2004-00215 Lick Fork,restoration,onsite,mtm,PERENNIAL,WV,TRUE,release requested
+2004-00658,2004-00658 Bull Creek,enhancement,onsite,mtm,PERENNIAL,WV,TRUE,unclear
+2004-00844,2004-00844 Lukey Fork,enhancement,onsite,mtm,PERENNIAL,WV,TRUE,TRUE
+2004-00864,2004-00864 Upper Grapevine Creek,enhancement,onsite,mtm,PERENNIAL,WV,TRUE,TRUE
+unknown1-ICGOBrien Birch River,unknown1-ICGOBrien Birch River,enhancement,offsite,none,PERENNIAL,WV,TRUE,unclear
+unknown8-KeystoneRush UT Rush Creek,unknown8-KeystoneRush UT Rush Creek,enhancement,onsite,mtm,PERENNIAL,WV,TRUE,TRUE
+2004-K0023,2004-K0023 Laurel Branch RSC4,restoration,onsite,mtm,PERENNIAL,VA,TRUE,release requested
+2005-1290,2005-1290 UTRPC 1 Lower,restoration,onsite,mtm,INTERMITTENT,VA,TRUE,release requested
+2005-1290,2005-1290 UTRPC 1 Upper,restoration,onsite,mtm,INTERMITTENT,VA,TRUE,release requested
+2005-1290,2005-1290 UTRPC 2,restoration,onsite,mtm,INTERMITTENT,VA,TRUE,release requested
+2000-00413-4,2000-00413-4 Beech Fork,enhancement,onsite,mtm,PERENNIAL,KY,TRUE,TRUE
+2000-00413-4,2000-00413-4 Honey Branch of Little Beech Fork,enhancement,onsite,mtm,PERENNIAL,KY,TRUE,TRUE
+2000-00413-4,2000-00413-4 Jade Moore Branch,enhancement,onsite,DeepMine,PERENNIAL,KY,TRUE,release requested
+2003-00643,2003-00643 Little Beech Fork of Beech fork,enhancement,offsite,none,PERENNIAL,KY,TRUE,TRUE
+2004-00332,2004-00332 Brushy Fork,enhancement,onsite,mtm,PERENNIAL,KY,TRUE,release requested
+2004-00332,2004-00332 Right Fork of Daniels Creek,enhancement,onsite,mtm,PERENNIAL,KY,TRUE,TRUE
+2004-00464,2004-00464 NWP21 and 2005-00031 IP Rye Cove enhancement reach,enhancement,offsite,none,PERENNIAL,KY,TRUE,TRUE
+2004-00464,2004-00464 NWP21 and 2005-00031 IP Rye Cove restoration reach,restoration,offsite,none,PERENNIAL,KY,TRUE,TRUE
+2005-00745,2005-00745 Sugarcamp Branch enhancement reach,enhancement,onsite,mtm,PERENNIAL,KY,TRUE,TRUE
+2005-00745,2005-00745 Sugarcamp Branch restored reach A,restoration,onsite,mtm,PERENNIAL,KY,TRUE,TRUE
+2005-00745,2005-00745 Sugarcamp Branch restored reach B,restoration,onsite,mtm,PERENNIAL,KY,TRUE,TRUE
+2006-831,2006-831 Dill Branch enhancement,enhancement,onsite,DeepMine,PERENNIAL,KY,TRUE,TRUE
+2006-831,2006-831 Dill Branch restoration,restoration,onsite,DeepMine,PERENNIAL,KY,TRUE,TRUE
+2002-00265,2002-00265 Cow Creek Left Tributary,creation,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2002-00265,2002-00265 Cow Creek Main Channel,creation,onsite,mtm,EPHEMERAL,,TRUE,TRUE
+2002-00265,2002-00265 Cow Creek Natural Drain Way,creation,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2004-00311,2004-00311 Loggy Branch main channel,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2004-00464,2004-00464-teh UT Montgomery Creek,creation,onsite,mtm,EPHEMERAL,,TRUE,TRUE
+2004-00604,2004-00604 Left Fork Cow Creek,enhancement,onsite,mtm,RPW,,TRUE,TRUE
+2005-00162,2005-00162 Carrow Fork,enhancement,onsite,DeepMine,INTERMITTENT,,TRUE,TRUE
+2005-01005,2005-01005 Pond Fork,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2005-V2168,2005-V2168 Cane Creek  ,restoration,onsite,DeepMine,PERENNIAL,,TRUE,TRUE
+2005-V2168,2005-V2168 Left Fork,restoration,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2006-0015,2006-0015 Spruce Fork,creation,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2006-00324,2006-00324 Left Fork of White Oak Creek,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2006-00324,2006-00324 UT Left Fork of White Oak Creek,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2007-421-KAN,2007-421-KAN Spicelick Fork,enhancement,offsite,none,INTERMITTENT,,TRUE,TRUE
+2000-01161,2000-01161 Pegs Branch,restoration,onsite,mtm,PERENNIAL,,FALSE,TRUE
+2000-01161,2000-01161 Walnut Fork,restoration,onsite,mtm,PERENNIAL,,FALSE,TRUE
+2001-01307,2001-01307 Stream A,creation,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2001-01307,2001-01307 Stream B,creation,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2001-01307,2001-01307 Stream C,creation,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2001-01307,2001-01307 Stream D,creation,onsite,mtm,EPHEMERAL,,TRUE,TRUE
+2001-01307,2001-01307 Stream E,creation,onsite,mtm,EPHEMERAL,,TRUE,TRUE
+2001-01473,2001-01473 Horse Fork,restoration,onsite,mtm,EPHEMERAL,,TRUE,TRUE
+2001-01473,2001-01473 Horse Fork Silt Structure 11,restoration,onsite,DeepMine,PERENNIAL,,TRUE,TRUE
+2002-00264,2002-00264 Coal Hollow,enhancement,offsite,none,PERENNIAL,,TRUE,TRUE
+2002-00264,2002-00264 Evans Ferrell Branch,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2002-00264,2002-00264 Gilbert Creek,enhancement,onsite,mtm,PERENNIAL,,FALSE,TRUE
+2003-00028,2003-00028 UT to Rockhouse Creek 1,restoration,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2003-00028,2003-00028 UT to Rockhouse Creek 2,restoration,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2003-00818,2003-00818 Long Branch offsite mitigation,enhancement,offsite,none,EPHEMERAL,,TRUE,TRUE
+2004-K0014,2004-K0014 UT Russell Prater Creek 1,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2004-K0014,2004-K0014 UT Russell Prater Creek 2,enhancement,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2005-00290,2005-00290 UT Lick Fork,enhancement,offsite,none,INTERMITTENT,,TRUE,TRUE
+2005-00745,2005-00745 Left Fork Holly Thicket - enhanced ephemeral,enhancement,offsite,none,EPHEMERAL,,TRUE,TRUE
+2005-00745,2005-00745 Left Fork Holly Thicket - enhanced intermittent,enhancement,offsite,none,INTERMITTENT,,TRUE,TRUE
+2005-00745,2005-00745 Left Fork Holly Thicket - enhanced perennial,enhancement,offsite,none,PERENNIAL,,TRUE,TRUE
+2005-00745,2005-00745 Left Fork Holly Thicket - restored intermittent,restoration,offsite,none,INTERMITTENT,,TRUE,TRUE
+2005-00745,2005-00745 Left Fork Holly Thicket - restored perennial,restoration,offsite,none,PERENNIAL,,TRUE,TRUE
+2005-00745,2005-00745 Middle Fork Holly Thicket - enhanced intermittent,enhancement,offsite,none,INTERMITTENT,,TRUE,TRUE
+2005-00745,2005-00745 Middle Fork Holly Thicket - enhanced perennial,enhancement,offsite,none,PERENNIAL,,TRUE,TRUE
+2005-00745,2005-00745 Middle Fork Holly Thicket - restored intermittent,restoration,offsite,none,INTERMITTENT,,TRUE,TRUE
+2005-00745,2005-00745 Middle Fork Holly Thicket - restored perennial,restoration,offsite,none,PERENNIAL,,TRUE,TRUE
+2005-01005,2005-01005 Pond Fork2,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2005-01101,2005-01101 Reach A,restoration,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2005-01101,2005-01101 Reach B,restoration,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2005-01101,2005-01101 Reach C,restoration,onsite,mtm,INTERMITTENT,,TRUE,TRUE
+2005-01314,2005-01314 Pace Branch enhancement,enhancement,offsite,none,PERENNIAL,,TRUE,TRUE
+2005-01314,2005-01314 Pace Branch restoration,restoration,offsite,none,PERENNIAL,,TRUE,TRUE
+2005-01315,2005-01315 Preacher Fork - left fork,restoration,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2005-01315,2005-01315 Preacher Fork - main stem,restoration,onsite,mtm,PERENNIAL,,TRUE,TRUE
+2006-00693,2006-00693 Millers Camp Branch,enhancement,offsite,none,PERENNIAL,,TRUE,TRUE
+2006-1320,2006-1320 Whetstone,restoration,offsite,none,PERENNIAL,KY,TRUE,TRUE
+2006-60-teh,2006-60-teh Bear Branch,enhancement,offsite,none,INTERMITTENT,,TRUE,TRUE
+2008-00068,2008-00068 UT to Stone Coal Creek,restoration,onsite,DeepMine,PERENNIAL,,TRUE,TRUE
+2008-2154 KAN,2008-2154 KAN Mary Fork,restoration,onsite,mtm,PERENNIAL,,TRUE,TRUE
+unknown4-Frasure West Fork of Pond Fork,unknown4-Frasure West Fork of Pond Fork,enhancement,onsite,mtm,PERENNIAL,,TRUE,TRUE
+unknown5-ICG UT to Clear Fork,unknown5-ICG UT to Clear Fork,restoration,offsite,none,INTERMITTENT,,TRUE,TRUE
+2005-00746,2005-00746 UT to Big Branch,enhancement,offsite,,PERENNIAL,,TRUE,
+2006-1518,2006-1518 UT 1 North Fork Kentucky River,restoration,onsite,,INTERMITTENT,,TRUE,
+2006-1518,2006-1518 UT 2 North Fork Kentucky River,restoration,onsite,,INTERMITTENT,,TRUE,
+2004-00464,2004-00464-teh Hollow Fill 8 Side Drain reconstruction,creation,,,EPHEMERAL,,TRUE,
+2003-00681,2003-00681 UT Dicks Creek,restoration,offsite,,,,TRUE,
+2004-00320,2004-00320 UT of Madden Fork,restoration,onsite,,INTERMITTENT,,TRUE,
+2004-00464,2004-00464-teh Hollow Fill 10 Side Drain reconstruction,creation,,,EPHEMERAL,,TRUE,TRUE
+2006-00324,2006-00324 UT Left Fork of White Oak Creek (PTF-1),enhancement,onsite,mtm,PERENNIAL,,TRUE,
