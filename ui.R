@@ -22,17 +22,17 @@ shinyUI(navbarPage("MTM Mitigation data", theme = shinytheme("spacelab"),
                ),
              column(7, leafletOutput("map", height = "600px"))
            ))),
-  tabPanel("Summary Data",
-           sidebarLayout(
-             sidebarPanel(
-               selectInput("parameter_select", label = h4("Select a monitoring parameter"),
-                           choices = unique(data$parameter), selected = "HAV")
-             ),
-             mainPanel(tabsetPanel(
-               tabPanel("Histogram by year", plotOutput("parameter_histogram", height = "600px")),
-               tabPanel("Data", h3("Average value reported by year of monitoring"),
-                        dataTableOutput("parameter_data"))))
-           )),
+  # tabPanel("Summary Data",
+  #          sidebarLayout(
+  #            sidebarPanel(
+  #              selectInput("parameter_select", label = h4("Select a monitoring parameter"),
+  #                          choices = unique(data$parameter), selected = "HAV")
+  #            ),
+  #            mainPanel(tabsetPanel(
+  #              tabPanel("Histogram by year", plotOutput("parameter_histogram", height = "600px")),
+  #              tabPanel("Data", h3("Average value reported by year of monitoring"),
+  #                       dataTableOutput("parameter_data"))))
+  #          )),
   tabPanel("View Reports",
            sidebarLayout(
              sidebarPanel(

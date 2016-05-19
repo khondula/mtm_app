@@ -17,9 +17,7 @@ shinyServer(function(input, output) {
                {data$clickedMarker <- input$map_marker_click}) 
   observeEvent(input$map_click, 
                {data$clickedMarker <- NULL}) 
-  # output$clickInfo <- renderPrint({
-  #   if(!is.null(data$clickedMarker$id)) data$clickedMarker$id else NULL}) 
-  # 
+
   click_mitt <- reactive({data$clickedMarker$id})
   
   output$map <- renderLeaflet({
@@ -96,16 +94,16 @@ shinyServer(function(input, output) {
       filter(permit_year %in% c(1:5))
   })
   
-  output$parameter_data <- renderDataTable({
-    parameter_data() %>% group_by(permit_year, Project_Type, StreamType) %>%
-      summarise(parameter_avg = mean(value, na.rm = TRUE)) %>%
-      spread(permit_year, parameter_avg)
-    
-  })
-  
-  output$parameter_histogram <- renderPlot({
-    ggplot(parameter_data(), aes(x = value)) + 
-      geom_histogram() + facet_wrap(~permit_year, ncol = 1)
-  })
+  # output$parameter_data <- renderDataTable({
+  #   parameter_data() %>% group_by(permit_year, Project_Type, StreamType) %>%
+  #     summarise(parameter_avg = mean(value, na.rm = TRUE)) %>%
+  #     spread(permit_year, parameter_avg)
+  #   
+  # })
+  # 
+  # output$parameter_histogram <- renderPlot({
+  #   ggplot(parameter_data(), aes(x = value)) + 
+  #     geom_histogram() + facet_wrap(~permit_year, ncol = 1)
+  # })
   
 })
